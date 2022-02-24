@@ -1,0 +1,60 @@
+#main {
+    background-color: rgba(196, 194, 194, 0.2);
+    text-align: center;
+    padding: 40px 0px;
+    font: 1em sans-serif;
+}
+
+#article-image {
+    background-color: white;
+    padding: 2px;
+    margin: 18px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#tribute-info {
+    padding: 15px;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#time-line {
+    text-align: left; 
+    padding-top: 15px;
+    padding-bottom: 20px;
+    color: rgba(0, 0, 0, 0.8);
+    line-height: 150%;
+}
+
+#quote {
+    text-align: left; 
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Montserrat', sans-serif;
+    max-width: 550px;
+}
+
+footer {
+    font-family: 'Poppins', sans-serif;
+    margin: 0 5%;
+}
+
+#tribute-link {
+    color: #a159e6;
+}
+
+
+
+
